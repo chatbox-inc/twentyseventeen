@@ -58,6 +58,14 @@ html {
 	-webkit-text-size-adjust: 100%;
 }
 
+
+/*
+カッシー(柏原)の修正分
+*/
+p{
+	color:#F00;
+}
+
 body {
 	margin: 0;
 }
