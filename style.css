@@ -2174,7 +2174,7 @@ body:not(.twentyseventeen-front-page) .entry-header {
 	font-weight: 800;
 	margin-top: 2em;
 	padding: 0.7em 2em;
-	-webkit-transition: background-color 0.2s ease-in-out;
+	test-webkit-transition: background-color 0.2s ease-in-out;
 	transition: background-color 0.2s ease-in-out;
 	white-space: nowrap;
 }
